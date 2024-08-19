@@ -29,13 +29,16 @@ Implementar algoritmos para análise de propriedades de grafos, avançando gradu
 
 ## Exemplo de Caso de Teste (retitado da descrição do trabalho prático)
 
+```
 4 4
 nao_direcionado
 0 0 1 1
 1 1 2 1
 2 1 3 1
 3 2 3 1
+```
 
 
 ## Nome
 Bruno Noberto Gomes
+
